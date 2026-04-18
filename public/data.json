@@ -1,0 +1,237 @@
+{
+  "default": "vaman",
+  "profiles": {
+
+    "vaman": {
+      "sections": {
+        "reachMe": true,
+        "featuredWork": false,
+        "aboutMe": false,
+        "testimonials": false,
+        "outsideOfWork": false,
+        "connect": true
+      },
+      "meta": {
+        "title": "Vaman Nayak – Vice President, JW",
+        "description": "Portfolio of Vaman Nayak, Vice President at JW, specializing in cold chain logistics, 3PL warehousing, reefer transportation, and GDP/QMS compliant cold storage operations across India.",
+        "tag": "VN_P_2026",
+        "years": "1990>>2026"
+      },
+      "vcard": {
+        "fullName": "Vaman Nayak",
+        "firstName": "Vaman",
+        "lastName": "Nayak",
+        "nickname": "Vam",
+        "title": "Vice President – Cold Chain Logistics",
+        "role": "Cold Chain Operations & Strategy",
+        "org": "JW (JWL Cold Store Pvt Ltd)",
+        "photo": "/images/vaman.jpeg",
+        "phones": [
+          { "type": "CELL", "number": "+91 99306 44934" },
+          { "type": "WORK", "number": "+91 22 0000 0000" }
+        ],
+        "emails": [
+          { "type": "WORK", "address": "vaman@jwllogic.com" }
+        ],
+        "urls": [
+          { "label": "LinkedIn", "value": "https://www.linkedin.com/in/vaman-nayak-62960813/" },
+          { "label": "Company",  "value": "https://jwllogic.com" }
+        ],
+        "addresses": [
+          {
+            "type": "WORK",
+            "street": "",
+            "city": "Mumbai",
+            "region": "Maharashtra",
+            "postalCode": "",
+            "country": "India"
+          }
+        ],
+        "birthday": "",
+        "categories": ["Logistics","Cold Chain","3PL"],
+        "note": "Vice President at JW | Cold Chain Logistics | 3PL | GDP & IMS Compliant Warehousing | Pan-India Reefer Transportation"
+      },
+      "hero": {
+        "greetings": [
+          "नमस्कार","Hello","ನಮಸ್ಕಾರ","નમસ્તે","வணக்கம்","നമസ്കാരം","নমস্কার","ਸਤ ਸ੍ਰੀ ਅਕਾਲ","Hola","Bonjour"
+        ],
+        "name": "Vaman Nayak — Vice President, JW",
+        "heading": "India's perishables deserve better infrastructure. At JW, we're building it — across every cold mile.",
+        "bio": "Every year, India loses thousands of crores worth of pharma, food, and allied cargo to broken cold chains — wrong temperatures, missed compliance, no network coverage beyond metros. At JW, I lead operations that fix exactly that: GDP-compliant cold storage, 3PL fulfilment, and reefer networks spanning Mumbai, Bangalore, Delhi/NCR and Chennai. If your supply chain touches cold cargo anywhere in India, we're already built for your problem — and actively expanding to meet where demand is going next.",
+        "photo": "/images/vaman.jpeg"
+      },
+      "skills": [
+        "Cold Chain Logistics","Warehousing","3PL Operations","Reefer Transportation",
+        "Supply Chain Management","GDP & QMS Compliance","Customs Bonded Warehousing","Food Safety"
+      ],
+      "projects": [
+        {
+          "title": "Pan-India Cold Chain Expansion",
+          "description": "Most cold chain operators only cover metros — leaving Tier-2 markets, regional distributors, and multi-city supply chains underserved. JW runs an integrated network across Mumbai, Bangalore, Delhi/NCR and Chennai covering cold storage (Food, Pharma & Allied), ambient warehousing, customs bonded facilities, and primary & secondary reefer transport under one roof. Next: Tier-2 city penetration and last-mile cold coverage for FMCG and pharma partners who need it most.",
+          "image": "/images/coldchainimg1.webp",
+          "link": "https://jwllogic.com",
+          "stats": [
+            { "label": "Pallet positions", "value": "80,000+", "accent": true },
+            { "label": "3PL warehouse footprint", "value": "500,000 sq ft", "accent": true },
+            { "label": "CFS throughput", "value": "300,000 TEUs/yr", "accent": true },
+            { "label": "", "value": "& more", "accent": false }
+          ]
+        },
+        {
+          "title": "GDP & IMS Compliant Cold Facility",
+          "description": "Pharma and food companies routinely fail compliance audits because their logistics partner isn't built to the right standard. JW's cold facility is GDP and IMS certified — with continuous QMS training cycles that keep the team audit-ready year-round, not just at inspection time. If your cargo needs a facility that holds up under regulatory scrutiny and delivers traceability end-to-end, this is the infrastructure your compliance team has been asking for.",
+          "image": "/images/GDP&IMS.webp",
+          "link": "https://www.jwventures.in",
+          "stats": [
+            { "label": "Pallet positions on site", "value": "28,000", "accent": true },
+            { "label": "Compliance standards", "value": "GDP + IMS", "accent": true },
+            { "label": "Cargo segments served", "value": "Food / Pharma / Allied", "accent": true },
+            { "label": "", "value": "& more", "accent": false }
+          ]
+        }
+      ],
+      "about": {
+        "paragraphs": [
+          "India's cold chain is not a solved problem — it's a growing one. Rising pharma exports, organised retail expansion, and FMCG penetration into Tier-2 cities are all creating demand that existing infrastructure simply cannot absorb. At <em>JW</em>, we've spent years building the network, the compliance systems, and the operational muscle to absorb exactly that demand — so when your business needs to scale cold, we scale with you.",
+          "Partnering with JW means your cargo moves through facilities that are GDP-certified, IMS-compliant, and staffed by teams who treat every audit as business-as-usual. It means reefer routes that cover metros today and Tier-2 corridors tomorrow. And it means working with an operator who is actively investing in the next decade of Indian logistics — not waiting to react to it. The infrastructure is here. The growth is next."
+        ],
+        "timeline": [
+          { "years": "1988 - 1990", "company": "Nehru High School", "role": "Schooling, Alevoor", "logo": "school", "accent": false },
+          { "years": "Graduate", "company": "Bangalore University", "role": "BA, English", "logo": "university", "accent": false },
+          { "years": "Earlier", "company": "Snowman Logistics", "role": "Cold Chain Operations", "logo": "snowman", "accent": true },
+          { "years": "Now →", "company": "JW", "role": "Vice President", "logo": "jwl", "accent": true }
+        ]
+      },
+      "testimonials": [
+        { "name": "Manish Roushan", "role": "Communication Scientist & Author @Roushan Research International", "linkedin": "https://www.linkedin.com/in/vaman-nayak-62960813/details/recommendations", "text": "\"Mr. Vaman is a man of arts in his specific profession. He is great at delegating tasks to his team and ensuring delivery to the required level. When problems become emergencies, he just clicks and they are resolved. His expertise makes him the master of his profession.\"" },
+        { "name": "Sameer Manohar Bidaye", "role": "Regional Sales Manager – West @Certification Line Services", "linkedin": "https://www.linkedin.com/in/vaman-nayak-62960813/details/recommendations", "text": "\"Great leadership.\"" },
+        { "name": "Kruti Jobanputra", "role": "Director @JW Ventures Pvt Ltd", "linkedin": "https://www.linkedin.com/in/vaman-nayak-62960813/details/recommendations", "text": "\"Vaman has been a trusted operational backbone at JWL — driving execution across our cold-chain expansion with discipline and care.\"" },
+        { "name": "Gowri Sankar G", "role": "General Manager – Operations @JWL Cold Store", "linkedin": "https://www.linkedin.com/in/vaman-nayak-62960813/details/recommendations", "text": "\"Working alongside Vaman, I've seen first-hand how he balances operational rigour with a calm, people-first style. Teams genuinely follow his lead.\"" },
+        { "name": "Deepak Kumar", "role": "Head – Cold Chain Operations | 28+ Years @3PL, Food, FMCG & Pharma", "linkedin": "https://www.linkedin.com/in/vaman-nayak-62960813/details/recommendations", "text": "\"Vaman's depth in cold chain — from GDP compliance to last-mile reefer movement — is rare. A genuine industry expert.\"" },
+        { "name": "Santosh Prabhu", "role": "Logistics Professional", "linkedin": "https://www.linkedin.com/in/vaman-nayak-62960813/details/recommendations", "text": "\"Highly skilled at warehousing and logistics. A dependable, no-nonsense operator who delivers what he commits to.\"" },
+        { "name": "Rajeev Singh", "role": "Warehousing Specialist", "linkedin": "https://www.linkedin.com/in/vaman-nayak-62960813/details/recommendations", "text": "\"Endorsed by colleagues at Snowman Logistics — Vaman has consistently proven himself across complex warehousing operations.\"" }
+      ],
+      "hobbies": {
+        "photography": [
+          "https://framerusercontent.com/images/ZV0UCGVUTkMjG2T8Z4OyOgX0JM.png",
+          "https://framerusercontent.com/images/nwT76l34EE3SfXBQlW7CKReJrM.png",
+          "https://framerusercontent.com/images/iYZSMfReKSBPBzvIjIQJJ9bXY.png",
+          "https://framerusercontent.com/images/wLr3Hn8SX0inXugYa1Wb48zDPg.png",
+          "https://framerusercontent.com/images/If3Uig8KBEM9dCbNbioQ9S1X25w.png"
+        ],
+        "travel": [
+          "https://framerusercontent.com/images/nnuSmzscn5D2h7dFq23gUuZVEE.png",
+          "https://framerusercontent.com/images/BpbRWMv50OP8cFVZvui95TeuZLM.png",
+          "https://framerusercontent.com/images/WJXz5RZTErhXniWT8nk2158bY.png",
+          "https://framerusercontent.com/images/ir9fk9f90HDEldvFNNKp9KxrHY.png"
+        ]
+      },
+      "connect": {
+        "social": [
+          { "type": "linkedin", "handle": "vaman-nayak", "url": "https://www.linkedin.com/in/vaman-nayak-62960813/" },
+          { "type": "whatsapp", "handle": "+91 99306 44934", "url": "https://wa.me/919930644934" }
+        ],
+        "companies": [
+          { "name": "JWL Cold Store", "tag": "3PL & Cold Chain", "url": "https://jwllogic.com" },
+          { "name": "JW Ventures", "tag": "Infrastructure & Warehousing", "url": "https://jwventures.in" }
+        ],
+        "links": [
+          { "label": "LinkedIn", "display": "vaman-nayak", "url": "https://www.linkedin.com/in/vaman-nayak-62960813/" },
+          { "label": "Email", "display": "vaman@jwllogic.com", "url": "mailto:vaman@jwllogic.com" },
+          { "label": "Phone", "display": "+91 99306 44934", "url": "tel:+919930644934" }
+        ]
+      }
+    },
+
+    "raaj": {
+      "meta": {
+        "title": "Raaj Sharma – Director, Sales Strategy",
+        "description": "Portfolio of Raaj Sharma, Director of Sales Strategy, focused on B2B SaaS growth, enterprise pipelines, and go-to-market playbooks.",
+        "tag": "RS_P_2026",
+        "years": "2008>>2026"
+      },
+      "vcard": {
+        "fullName": "Raaj Sharma",
+        "firstName": "Raaj",
+        "lastName": "Sharma",
+        "title": "Director – Sales Strategy",
+        "org": "Acme Corp",
+        "location": "Bengaluru, India",
+        "note": "Director, Sales Strategy | B2B SaaS | Enterprise GTM | Pipeline & Revenue Operations"
+      },
+      "hero": {
+        "greetings": ["नमस्कार","Hello","வணக்கம்","Bonjour","Hola","こんにちは"],
+        "name": "Raaj",
+        "heading": "I'm Raaj Sharma, Director of Sales Strategy — turning pipelines into predictable revenue.",
+        "bio": "I lead sales strategy and GTM at Acme Corp, partnering with founders and RevOps teams to design pipelines that actually close. Today I'm focused on enterprise SaaS; tomorrow, on the playbooks that help the next generation of sales leaders run their own orgs with rigour.",
+        "photo": "https://ui-avatars.com/api/?name=Raaj+Sharma&size=480&background=c8e64a&color=1a1a1a&bold=true&font-size=0.4"
+      },
+      "skills": [
+        "Enterprise Sales","GTM Strategy","Revenue Operations","Pipeline Design",
+        "Sales Enablement","Forecasting","B2B SaaS","Key Account Management"
+      ],
+      "projects": [
+        {
+          "title": "Enterprise Pipeline Rebuild",
+          "description": "Currently rebuilding the enterprise sales motion at Acme — new ICP, refreshed qualification criteria, and a forecasting system the leadership team can actually trust. Next phase: embedding AI-assisted account research into the rep workflow.",
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+          "link": "#",
+          "stats": [
+            { "label": "Pipeline coverage lifted", "value": "1.8× → 3.2×", "accent": true },
+            { "label": "Win rate improvement", "value": "+14 pts", "accent": true },
+            { "label": "Avg deal cycle", "value": "92 → 61 days", "accent": true },
+            { "label": "", "value": "& more", "accent": false }
+          ]
+        },
+        {
+          "title": "GTM Playbook for Series-B Founders",
+          "description": "Running a recurring advisory program for early-stage founders — codifying the plays, tools and metrics that separate scalable sales motions from one-off wins. Expanding into a community in 2026.",
+          "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+          "link": "#",
+          "stats": [
+            { "label": "Founders advised", "value": "40+", "accent": true },
+            { "label": "ARR under advisement", "value": "$120M", "accent": true },
+            { "label": "Avg uplift in win rate", "value": "+18 pts", "accent": true },
+            { "label": "", "value": "& more", "accent": false }
+          ]
+        }
+      ],
+      "about": {
+        "paragraphs": [
+          "I'm a sales leader who believes great pipelines are <em>designed, not hoped for</em>. At Acme, I own sales strategy end-to-end — from ICP definition through to forecasting and board-level revenue narratives.",
+          "Looking ahead, I'm convinced the next wave of enterprise sales will be AI-native — reps augmented with research, deal coaching and real-time forecasting. That's the future I'm building toward, both at Acme and in the founder community I advise."
+        ],
+        "timeline": [
+          { "years": "2004 - 2008", "company": "Delhi University", "role": "B.Com (Hons)", "logo": "university", "accent": false },
+          { "years": "2008 - 2014", "company": "Oracle", "role": "Account Executive", "logo": "snowman", "accent": true },
+          { "years": "2014 - 2021", "company": "Freshworks", "role": "Sr. Sales Manager", "logo": "jwl", "accent": true },
+          { "years": "Now →", "company": "Acme Corp", "role": "Director, Sales Strategy", "logo": "jwl", "accent": true }
+        ]
+      },
+      "testimonials": [
+        { "name": "Priya Menon", "role": "CEO @Acme Corp", "linkedin": "#", "text": "\"Raaj doesn't just hit numbers — he builds the machines that make numbers repeatable. Rare combination of strategist and operator.\"" },
+        { "name": "Arjun Iyer", "role": "VP Sales @Freshworks", "linkedin": "#", "text": "\"Few people I'd want on my side in a tough enterprise deal more than Raaj. He reads rooms and pipelines equally well.\"" }
+      ],
+      "hobbies": {
+        "photography": [
+          "https://framerusercontent.com/images/ZV0UCGVUTkMjG2T8Z4OyOgX0JM.png",
+          "https://framerusercontent.com/images/nwT76l34EE3SfXBQlW7CKReJrM.png",
+          "https://framerusercontent.com/images/iYZSMfReKSBPBzvIjIQJJ9bXY.png"
+        ],
+        "travel": [
+          "https://framerusercontent.com/images/nnuSmzscn5D2h7dFq23gUuZVEE.png",
+          "https://framerusercontent.com/images/BpbRWMv50OP8cFVZvui95TeuZLM.png",
+          "https://framerusercontent.com/images/WJXz5RZTErhXniWT8nk2158bY.png"
+        ]
+      },
+      "connect": {
+        "links": [
+          { "label": "LinkedIn", "display": "raaj-sharma", "url": "https://linkedin.com/in/raaj-sharma" },
+          { "label": "Email", "display": "raaj@acme.example", "url": "mailto:raaj@acme.example" },
+          { "label": "Phone", "display": "+91 98765 43210", "url": "tel:+919876543210" }
+        ]
+      }
+    }
+
+  }
+}

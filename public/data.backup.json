@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Kishen NL – Senior Product Designer Portfolio",
+    "description": "Portfolio of Kishen NL, Senior Product Designer specializing in analytics-heavy SaaS, data visualization, and system-level UX.",
+    "tag": "KNL_P_2025",
+    "years": "2019>>2025"
+  },
+
+  "hero": {
+    "greetings": [
+      "నమస్కారం",
+      "नमस्कार",
+      "Hello",
+      "வணக்கம்",
+      "ನಮಸ್ಕಾರ",
+      "നമസ്കാരം",
+      "Bonjour",
+      "こんにちは",
+      "Hola",
+      "안녕하세요"
+    ],
+    "name": "Kishen",
+    "heading": "I'm Kishen, a Senior Product Designer based in Bengaluru.",
+    "bio": "Over the past 6+ years as a Product Designer, I've worked on turning complex problems into clear and usable experiences. I enjoy building products that bring clarity to data and help teams make better decisions.",
+    "photo": "https://framerusercontent.com/images/HU5zlLjDabI3cJGsrORJALfo2kM.jpg?width=400&height=462"
+  },
+
+  "skills": [
+    "UX Architecture",
+    "Product Strategy",
+    "Interaction Design",
+    "Design Systems",
+    "Data Visualization",
+    "Cross-functional Collaboration",
+    "Systems Thinking"
+  ],
+
+  "projects": [
+    {
+      "title": "Profit Recovery Automation",
+      "description": "Designed to turn scattered recovery work into revenue by making the recovery journey visible, trustworthy, and stakeholder-ready.",
+      "image": "https://framerusercontent.com/images/1d1Ndpa1k7dscD5oN3z1ZiAh4.png?scale-down-to=1024",
+      "link": "#",
+      "stats": [
+        { "label": "Time saved each year", "value": "1000+ hrs", "accent": true },
+        { "label": "Systems to check", "value": "3-4 → 1 System", "accent": true },
+        { "label": "Additional annual profit", "value": "$15M+", "accent": true },
+        { "label": "", "value": "& more", "accent": false }
+      ]
+    },
+    {
+      "title": "Market Share",
+      "description": "Helped build the measurement foundation teams relied on weekly, then guided the v2 diagnostics expansion without breaking the core mental model.",
+      "image": "https://framerusercontent.com/images/g1EIFJVxMtlwDECCe9krffk0dc.png?scale-down-to=1024",
+      "link": "#",
+      "stats": [
+        { "label": "Time to insight", "value": "Weeks → Days", "accent": true },
+        { "label": "Weekly users / accounts", "value": "821 / 80", "accent": true },
+        { "label": "Manual prep removed each month", "value": "10-15 days", "accent": true },
+        { "label": "", "value": "& more", "accent": false }
+      ]
+    }
+  ],
+
+  "about": {
+    "paragraphs": [
+      "I'm a designer whose path into this field was anything but linear. My early years at Amazon gave me a solid grounding in the mechanics of e-commerce, but also revealed what was missing: <em>a way to approach challenges through design and create meaningful results</em>. That realization prompted my shift into design, where I have spent the last 6 years shaping SaaS products, leading initiatives such as Profit Recovery Automation and Market Share, while also mentoring designers who have grown into independent roles.",
+      "What I value most is measurable impact, whether it is a visualization that enables an executive to make faster decisions or a workflow that saves hours for a team. Outside of work, I find inspiration in photography and traveling."
+    ],
+    "timeline": [
+      {
+        "years": "2015 - 2018",
+        "company": "Amazon",
+        "role": "Team Lead",
+        "logo": "amazon",
+        "accent": false
+      },
+      {
+        "years": "2019",
+        "company": "Designboat",
+        "role": "Design Trainee",
+        "logo": "designboat",
+        "accent": true
+      },
+      {
+        "years": "2019 - 2022",
+        "company": "CommerceIQ",
+        "role": "Product Designer",
+        "logo": "ciq",
+        "accent": true
+      },
+      {
+        "years": "2022 - 2025",
+        "company": "CommerceIQ",
+        "role": "Sr. Product Designer",
+        "logo": "ciq",
+        "accent": true
+      }
+    ]
+  },
+
+  "testimonials": [
+    {
+      "name": "Amarsh Vutukuri",
+      "role": "Director of Design @CommerceIQ",
+      "linkedin": "https://www.linkedin.com/in/kishen-nl-689a39a0/details/recommendations",
+      "text": "\"From the beginning, Kishen played a critical role in building products and design systems from the ground up. His ability to think at a systems level while maintaining an eye for detail has been truly impressive.\""
+    },
+    {
+      "name": "Siddharth Shankar",
+      "role": "Product Manager @CommerceIQ",
+      "linkedin": "https://www.linkedin.com/in/kishen-nl-689a39a0/details/recommendations",
+      "text": "\"Kishen has a rare ability to balance user needs with business goals, ensuring that every decision is rooted in both empathy and strategy.\""
+    },
+    {
+      "name": "Shubham Maurya",
+      "role": "Product Manager @CommerceIQ",
+      "linkedin": "https://www.linkedin.com/in/kishen-nl-689a39a0/details/recommendations",
+      "text": "\"He has a very sharp sense on how to translate business workflows into intuitive user experiences. His designs consistently improve key metrics.\""
+    },
+    {
+      "name": "Srujay Gautam",
+      "role": "Product Manager @CommerceIQ",
+      "linkedin": "https://www.linkedin.com/in/kishen-nl-689a39a0/details/recommendations",
+      "text": "\"Kishen played a pivotal role in designing and scaling CommerceIQ's Profit Recovery Automation (PRA). His strategic thinking elevated the entire product.\""
+    },
+    {
+      "name": "Rajath Raman",
+      "role": "Product Leader @CommerceIQ",
+      "linkedin": "https://www.linkedin.com/in/kishen-nl-689a39a0/details/recommendations",
+      "text": "\"Kishen has an acute sense of attention to detail, which enables him to produce designs that are both elegant and highly functional.\""
+    },
+    {
+      "name": "Ayush Kumar Kejriwal",
+      "role": "Product Designer @CommerceIQ",
+      "linkedin": "https://www.linkedin.com/in/kishen-nl-689a39a0/details/recommendations",
+      "text": "\"His ability to break down complex problems, think strategically, and execute with precision is truly remarkable.\""
+    },
+    {
+      "name": "Bhavya Sinha",
+      "role": "Product Designer @CommerceIQ",
+      "linkedin": "https://www.linkedin.com/in/kishen-nl-689a39a0/details/recommendations",
+      "text": "\"I had the privilege of working with Kishen during my early years as a product designer, and his mentorship was invaluable to my growth.\""
+    }
+  ],
+
+  "hobbies": {
+    "photography": [
+      "https://framerusercontent.com/images/ZV0UCGVUTkMjG2T8Z4OyOgX0JM.png",
+      "https://framerusercontent.com/images/nwT76l34EE3SfXBQlW7CKReJrM.png",
+      "https://framerusercontent.com/images/iYZSMfReKSBPBzvIjIQJJ9bXY.png",
+      "https://framerusercontent.com/images/wLr3Hn8SX0inXugYa1Wb48zDPg.png",
+      "https://framerusercontent.com/images/If3Uig8KBEM9dCbNbioQ9S1X25w.png"
+    ],
+    "travel": [
+      "https://framerusercontent.com/images/nnuSmzscn5D2h7dFq23gUuZVEE.png",
+      "https://framerusercontent.com/images/BpbRWMv50OP8cFVZvui95TeuZLM.png",
+      "https://framerusercontent.com/images/WJXz5RZTErhXniWT8nk2158bY.png",
+      "https://framerusercontent.com/images/ir9fk9f90HDEldvFNNKp9KxrHY.png"
+    ]
+  },
+
+  "connect": {
+    "links": [
+      { "label": "LinkedIn", "display": "kishennl", "url": "https://linkedin.com/in/kishen-nl-689a39a0" },
+      { "label": "Email", "display": "kishennl81@gmail.com", "url": "mailto:kishennl81@gmail.com" },
+      { "label": "Instagram", "display": "Photohobby.in", "url": "https://www.instagram.com/photohobby.in" }
+    ]
+  }
+}

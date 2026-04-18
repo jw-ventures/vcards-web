@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+
+  <!-- STICKY NAV -->
+  <nav class="nav">
+    <a href="#hero-section" class="nav-logo">
+      <svg width="28" height="28" viewBox="0 0 28 28" fill="none">
+        <path d="M14 0L14 28M0 14L28 14M3.5 3.5L24.5 24.5M24.5 3.5L3.5 24.5" stroke="currentColor" stroke-width="2"/>
+      </svg>
+    </a>
+    <div class="nav-links">
+      <a href="#featuredwork">Featured work</a>
+      <a href="#aboutme">About me</a>
+      <a href="#connectsection">Connect</a>
+    </div>
+  </nav>
+
+  <!-- ====== SINGLE MAIN CARD ====== -->
+  <main class="main-card">
+    <!-- Tape + Pin decoration -->
+    <div class="tape-wrap">
+      <img class="tape-img" src="https://framerusercontent.com/images/rDYz78GwsBiggPnoUZbXNezmw.png" alt="" aria-hidden="true" />
+      <img class="pin-img" src="https://framerusercontent.com/images/z33CqOsXUtfuP4DsFGSe16SNGXA.png" alt="" aria-hidden="true" />
+    </div>
+    <!-- Inner wrapper clips ALL content -->
+    <div class="card-inner">
+
+    <!-- HERO SECTION -->
+    <section id="hero-section" class="hero-section">
+      <div class="hero-header">
+        <span class="hero-tag" id="meta-tag"></span>
+        <span class="hero-tag" id="meta-years"></span>
+      </div>
+      <div class="hero-content">
+        <div class="hero-text">
+          <h1 class="hero-greeting" id="greeting"></h1>
+          <p class="hero-name" id="hero-name"></p>
+          <h2 class="hero-heading" id="hero-heading"></h2>
+          <p class="hero-bio" id="hero-bio"></p>
+        </div>
+        <div class="hero-photo-wrap">
+          <div class="hero-photo">
+            <img id="hero-photo" src="" alt="" />
+          </div>
+          <div class="hero-photo-overlay">
+            <span>Hi there 👋</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SKILLS MARQUEE -->
+    <div class="skills-marquee">
+      <div class="skills-track" id="skills-track">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+
+    <!-- REACH ME -->
+    <section id="reachme" class="card-section">
+      <h3 class="section-title">Contact / Reach me</h3>
+      <div class="reach-box">
+        <dl class="reach-list" id="reach-list">
+          <!-- Populated by JS -->
+        </dl>
+      </div>
+    </section>
+
+    <!-- FEATURED WORK -->
+    <section id="featuredwork" class="card-section">
+      <h3 class="section-title">✦ Featured work</h3>
+      <div id="projects-container">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- DIVIDER -->
+    <div class="section-divider"></div>
+
+    <!-- ABOUT ME -->
+    <section id="aboutme" class="card-section">
+      <h3 class="section-title">✦ About me</h3>
+      <div class="about-text" id="about-text">
+        <!-- Populated by JS -->
+      </div>
+      <div class="timeline-scroll-wrap">
+        <div class="timeline-scroll">
+          <div class="tl-ruler"><div class="tl-ticks"></div></div>
+          <div class="tl-items" id="timeline-items">
+            <!-- Populated by JS -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TESTIMONIALS -->
+    <section id="testimonials-section" class="card-section">
+      <h3 class="section-title">Testimonials</h3>
+      <div class="testimonials-wrapper">
+        <div class="testimonials-track" id="testimonials-track">
+          <!-- Populated by JS -->
+        </div>
+        <div class="carousel-controls">
+          <button class="carousel-btn" id="testimonial-prev" aria-label="Previous">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+          <button class="carousel-btn" id="testimonial-next" aria-label="Next">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M9 6L15 12L9 18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- OUTSIDE OF WORK -->
+    <section id="outside-section" class="card-section">
+      <h3 class="section-title">Outside of work</h3>
+      <div class="hobbies-grid">
+        <!-- Photography -->
+        <div class="hobby-panel">
+          <span class="hobby-label">Photography</span>
+          <div class="hobby-slider hobby-slider--vertical" id="photo-slider">
+            <div class="hobby-slider-track" id="photo-track">
+              <!-- Populated by JS -->
+            </div>
+          </div>
+        </div>
+        <!-- Travel -->
+        <div class="hobby-panel">
+          <span class="hobby-label">Travel</span>
+          <div class="hobby-slider hobby-slider--horizontal" id="travel-slider">
+            <div class="hobby-slider-track" id="travel-track">
+              <!-- Populated by JS -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONNECT / FOOTER -->
+    <section id="connectsection" class="connect-section">
+      <h3 class="section-title connect-title">✦ Connect</h3>
+      <div class="connect-grid" id="connect-grid">
+        <!-- Populated by JS -->
+      </div>
+      <a href="/vaman-nayak.vcf" download="Vaman-Nayak.vcf" class="save-contact-btn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        Save Contact
+      </a>
+      <div class="connect-bar">
+        <span>✦</span>
+        <span class="connect-bar-thanks" id="thanks"></span>
+        <span>⊙</span>
+      </div>
+    </section>
+
+    </div><!-- end card-inner -->
+  </main>
+
+  <!-- Custom cursor follower -->
+  <div class="cursor-dot" id="cursor-dot"></div>
+
+  <script type="module" src="/main.js"></script>
+</body>
+</html>
