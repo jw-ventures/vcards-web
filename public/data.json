@@ -28,7 +28,7 @@
         "photo": "/images/vaman.jpeg",
         "phones": [
           { "type": "CELL", "number": "+91 99306 44934" },
-          { "type": "WORK", "number": "+91 22 0000 0000" }
+          { "type": "WORK", "number": "+91 99306 44934" }
         ],
         "emails": [
           { "type": "WORK", "address": "vaman@jwllogic.com" }
@@ -38,12 +38,12 @@
           { "label": "Company",  "value": "https://jwllogic.com" }
         ],
         "addresses": [
-          {
+      {
             "type": "WORK",
-            "street": "",
-            "city": "Mumbai",
+            "street": "15-23, National Highway 4B, Panvel-JNPT Highway, Village Padeghar",
+            "city": "Panvel",
             "region": "Maharashtra",
-            "postalCode": "",
+            "postalCode": "410206",
             "country": "India"
           }
         ],
@@ -143,92 +143,105 @@
       }
     },
 
-    "raaj": {
+    "jignesh": {
+      "sections": {
+        "reachMe": true,
+        "featuredWork": false,
+        "aboutMe": false,
+        "testimonials": false,
+        "outsideOfWork": false,
+        "connect": true
+      },
       "meta": {
-        "title": "Raaj Sharma – Director, Sales Strategy",
-        "description": "Portfolio of Raaj Sharma, Director of Sales Strategy, focused on B2B SaaS growth, enterprise pipelines, and go-to-market playbooks.",
-        "tag": "RS_P_2026",
-        "years": "2008>>2026"
+        "title": "Jignesh Joshi – VP Operations, JW Ventures",
+        "description": "Portfolio of Jignesh Joshi, VP Operations at JW Ventures Pvt. Ltd., overseeing logistics, cold chain, and multi-subsidiary operations across India.",
+        "tag": "JJ_P_2026",
+        "years": "2000>>2026"
       },
       "vcard": {
-        "fullName": "Raaj Sharma",
-        "firstName": "Raaj",
-        "lastName": "Sharma",
-        "title": "Director – Sales Strategy",
-        "org": "Acme Corp",
-        "location": "Bengaluru, India",
-        "note": "Director, Sales Strategy | B2B SaaS | Enterprise GTM | Pipeline & Revenue Operations"
+        "fullName": "Jignesh Joshi",
+        "firstName": "Jignesh",
+        "lastName": "Joshi",
+        "title": "VP Operations",
+        "role": "Operations & Logistics Management",
+        "org": "JW Ventures Pvt. Ltd.",
+        "photo": "/images/jignesh.jpeg",
+        "phones": [
+          { "type": "CELL", "number": "+91 98706 00333" },
+          { "type": "WORK", "number": "+91 22 5050 0000" }
+        ],
+        "emails": [
+          { "type": "WORK", "address": "jigneshjoshi@jwllogic.com" }
+        ],
+        "urls": [
+          { "label": "Company", "value": "https://www.jwllogic.com" }
+        ],
+        "addresses": [
+          {
+            "type": "WORK",
+            "street": "15-23, National Highway 4B, Panvel-JNPT Highway, Village Padeghar",
+            "city": "Panvel",
+            "region": "Maharashtra",
+            "postalCode": "410206",
+            "country": "India"
+          }
+        ],
+        "birthday": "",
+        "categories": ["Logistics","Operations","Cold Chain","3PL"],
+        "note": "VP Operations at JW Ventures | Cold Chain | 3PL | Multi-subsidiary Logistics Operations"
       },
       "hero": {
-        "greetings": ["नमस्कार","Hello","வணக்கம்","Bonjour","Hola","こんにちは"],
-        "name": "Raaj",
-        "heading": "I'm Raaj Sharma, Director of Sales Strategy — turning pipelines into predictable revenue.",
-        "bio": "I lead sales strategy and GTM at Acme Corp, partnering with founders and RevOps teams to design pipelines that actually close. Today I'm focused on enterprise SaaS; tomorrow, on the playbooks that help the next generation of sales leaders run their own orgs with rigour.",
-        "photo": "https://ui-avatars.com/api/?name=Raaj+Sharma&size=480&background=c8e64a&color=1a1a1a&bold=true&font-size=0.4"
+        "greetings": [
+          "નમસ્તે","Hello","नमस्कार","ನಮಸ್ಕಾರ","வணக்கம்","Bonjour","Hola","こんにちは"
+        ],
+        "name": "Jignesh Joshi — VP Operations, JW Ventures",
+        "heading": "Logistics operations don't run themselves. Across JW's multi-entity network, I make sure they run right.",
+        "bio": "India's supply chain complexity multiplies fast when you're running cold storage, freight, and bonded warehousing under one group. At JW Ventures, I oversee operations across subsidiaries — JWR Logistic, JWC Logistics, and JWL Cold Store — ensuring each entity delivers to the same JW standard: compliant, reliable, and ready to scale. If your cargo needs a partner who understands the full logistics stack from JNPT to the last mile, you're in the right place.",
+        "photo": "/images/jignesh.jpeg"
       },
       "skills": [
-        "Enterprise Sales","GTM Strategy","Revenue Operations","Pipeline Design",
-        "Sales Enablement","Forecasting","B2B SaaS","Key Account Management"
+        "Operations Management","Cold Chain Logistics","3PL","Freight Forwarding",
+        "Customs Bonded Warehousing","Multi-entity Operations","Supply Chain","JNPT & CFS Operations"
       ],
       "projects": [
         {
-          "title": "Enterprise Pipeline Rebuild",
-          "description": "Currently rebuilding the enterprise sales motion at Acme — new ICP, refreshed qualification criteria, and a forecasting system the leadership team can actually trust. Next phase: embedding AI-assisted account research into the rep workflow.",
-          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
-          "link": "#",
+          "title": "JW Multi-Subsidiary Operations",
+          "description": "Running fragmented logistics entities wastes capacity and creates compliance gaps. JW's multi-subsidiary structure — JWR Logistic, JWC Logistics, and JWL Cold Store — operates as a unified platform under one management layer, allowing clients to access cold chain, freight, and warehousing through a single accountable partner. Next: deeper integration of digital tracking and cross-entity capacity sharing.",
+          "image": "/images/coldchainimg1.webp",
+          "link": "https://jwllogic.com",
           "stats": [
-            { "label": "Pipeline coverage lifted", "value": "1.8× → 3.2×", "accent": true },
-            { "label": "Win rate improvement", "value": "+14 pts", "accent": true },
-            { "label": "Avg deal cycle", "value": "92 → 61 days", "accent": true },
-            { "label": "", "value": "& more", "accent": false }
-          ]
-        },
-        {
-          "title": "GTM Playbook for Series-B Founders",
-          "description": "Running a recurring advisory program for early-stage founders — codifying the plays, tools and metrics that separate scalable sales motions from one-off wins. Expanding into a community in 2026.",
-          "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
-          "link": "#",
-          "stats": [
-            { "label": "Founders advised", "value": "40+", "accent": true },
-            { "label": "ARR under advisement", "value": "$120M", "accent": true },
-            { "label": "Avg uplift in win rate", "value": "+18 pts", "accent": true },
+            { "label": "Subsidiaries managed", "value": "3", "accent": true },
+            { "label": "Operational base", "value": "Panvel, JNPT", "accent": true },
+            { "label": "Cargo types", "value": "Cold / Freight / Bonded", "accent": true },
             { "label": "", "value": "& more", "accent": false }
           ]
         }
       ],
       "about": {
         "paragraphs": [
-          "I'm a sales leader who believes great pipelines are <em>designed, not hoped for</em>. At Acme, I own sales strategy end-to-end — from ICP definition through to forecasting and board-level revenue narratives.",
-          "Looking ahead, I'm convinced the next wave of enterprise sales will be AI-native — reps augmented with research, deal coaching and real-time forecasting. That's the future I'm building toward, both at Acme and in the founder community I advise."
+          "India's logistics sector is consolidating — and the winners will be operators who can offer compliance, scale, and reliability across entity lines. At <em>JW Ventures</em>, we've built exactly that: a group structure where cold storage, freight, and bonded warehousing share operational DNA, compliance standards, and leadership accountability.",
+          "Partnering with JW means one relationship that covers your end-to-end logistics needs. From JNPT port operations to cold-last-mile delivery, from GDP-certified pharma storage to bulk ambient warehousing — we are the single point of contact your supply chain needs. The infrastructure is pan-India. The growth is structured. And the Mark of Trust is earned."
         ],
         "timeline": [
-          { "years": "2004 - 2008", "company": "Delhi University", "role": "B.Com (Hons)", "logo": "university", "accent": false },
-          { "years": "2008 - 2014", "company": "Oracle", "role": "Account Executive", "logo": "snowman", "accent": true },
-          { "years": "2014 - 2021", "company": "Freshworks", "role": "Sr. Sales Manager", "logo": "jwl", "accent": true },
-          { "years": "Now →", "company": "Acme Corp", "role": "Director, Sales Strategy", "logo": "jwl", "accent": true }
+          { "years": "Earlier", "company": "Logistics Industry", "role": "Operations & Management", "logo": "school", "accent": false },
+          { "years": "Now →", "company": "JW Ventures Pvt. Ltd.", "role": "VP Operations", "logo": "jwl", "accent": true }
         ]
       },
-      "testimonials": [
-        { "name": "Priya Menon", "role": "CEO @Acme Corp", "linkedin": "#", "text": "\"Raaj doesn't just hit numbers — he builds the machines that make numbers repeatable. Rare combination of strategist and operator.\"" },
-        { "name": "Arjun Iyer", "role": "VP Sales @Freshworks", "linkedin": "#", "text": "\"Few people I'd want on my side in a tough enterprise deal more than Raaj. He reads rooms and pipelines equally well.\"" }
-      ],
-      "hobbies": {
-        "photography": [
-          "https://framerusercontent.com/images/ZV0UCGVUTkMjG2T8Z4OyOgX0JM.png",
-          "https://framerusercontent.com/images/nwT76l34EE3SfXBQlW7CKReJrM.png",
-          "https://framerusercontent.com/images/iYZSMfReKSBPBzvIjIQJJ9bXY.png"
-        ],
-        "travel": [
-          "https://framerusercontent.com/images/nnuSmzscn5D2h7dFq23gUuZVEE.png",
-          "https://framerusercontent.com/images/BpbRWMv50OP8cFVZvui95TeuZLM.png",
-          "https://framerusercontent.com/images/WJXz5RZTErhXniWT8nk2158bY.png"
-        ]
-      },
+      "testimonials": [],
+      "hobbies": { "photography": [], "travel": [] },
       "connect": {
+        "social": [
+          { "type": "whatsapp", "handle": "+91 98706 00333", "url": "https://wa.me/919870600333" }
+        ],
+        "companies": [
+          { "name": "JW Ventures Pvt. Ltd.", "tag": "The Mark of Trust", "url": "https://www.jwllogic.com" },
+          { "name": "JWR Logistic", "tag": "Freight & Transportation", "url": "https://www.jwllogic.com" },
+          { "name": "JWC Logistics", "tag": "Ferk Pvt. Ltd.", "url": "https://www.jwllogic.com" },
+          { "name": "JWL Cold Store", "tag": "3PL & Cold Chain", "url": "https://jwllogic.com" }
+        ],
         "links": [
-          { "label": "LinkedIn", "display": "raaj-sharma", "url": "https://linkedin.com/in/raaj-sharma" },
-          { "label": "Email", "display": "raaj@acme.example", "url": "mailto:raaj@acme.example" },
-          { "label": "Phone", "display": "+91 98765 43210", "url": "tel:+919876543210" }
+          { "label": "Email", "display": "jigneshjoshi@jwllogic.com", "url": "mailto:jigneshjoshi@jwllogic.com" },
+          { "label": "Phone", "display": "+91 98706 00333", "url": "tel:+919870600333" }
         ]
       }
     }
