@@ -132,8 +132,11 @@
           { "type": "whatsapp", "handle": "+91 99306 44934", "url": "https://wa.me/919930644934" }
         ],
         "companies": [
-          { "name": "JWL Cold Store", "tag": "3PL & Cold Chain", "url": "https://jwllogic.com" },
-          { "name": "JW Ventures", "tag": "Infrastructure & Warehousing", "url": "https://jwventures.in" }
+       
+          { "name": "JW Ventures Pvt. Ltd.", "tag": "The Mark of Trust", "url": "https://www.jwllogic.com" },
+                    { "name": "JWL Cold Store", "tag": "3PL & Cold Chain", "url": "https://jwllogic.com" },
+          { "name": "JWR Logistic", "tag": "Freight & Transportation", "url": "https://www.jwllogic.com" },
+          { "name": "JWC Logistics", "tag": "Ferk Pvt. Ltd.", "url": "https://www.jwllogic.com" }
         ],
         "links": [
           { "label": "LinkedIn", "display": "vaman-nayak", "url": "https://www.linkedin.com/in/vaman-nayak-62960813/" },
