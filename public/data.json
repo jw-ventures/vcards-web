@@ -40,7 +40,7 @@
         "addresses": [
       {
             "type": "WORK",
-            "street": "15-23, National Highway 4B, Panvel-JNPT Highway, Village Padeghar",
+            "street": "15-45, National Highway 4B, Panvel-JNPT Highway, Village Padeghar",
             "city": "Panvel",
             "region": "Maharashtra",
             "postalCode": "410206",
@@ -182,7 +182,7 @@
         "addresses": [
           {
             "type": "WORK",
-            "street": "15-23, National Highway 4B, Panvel-JNPT Highway, Village Padeghar",
+            "street": "15-45, National Highway 4B, Panvel-JNPT Highway, Village Padeghar",
             "city": "Panvel",
             "region": "Maharashtra",
             "postalCode": "410206",
@@ -285,7 +285,7 @@
     "addresses": [
       {
         "type": "WORK",
-        "street": "15-23, National Highway 4B, Panvel-JNPT Highway, Village Padeghar",
+        "street": "15-45, National Highway 4B, Panvel-JNPT Highway, Village Padeghar",
         "city": "Panvel",
         "region": "Maharashtra",
         "postalCode": "410206",
@@ -301,8 +301,8 @@
       "नमस्कार", "Hello", "ನಮಸ್ಕಾರ", "નમસ્તે", "வணக்கம்", "നമസ്കാരം", "নমস্কার", "ਸਤ ਸ੍ਰੀ ਅਕਾਲ", "Hola", "Bonjour"
     ],
     "name": "Kruti Jobanputra — Director, JW Ventures",
-    "heading": "Building the infrastructure India's cold chain needs — one compliant, connected facility at a time.",
-    "bio": "As Director at JW Ventures Pvt. Ltd., I lead the strategic and operational vision behind one of India's growing integrated cold chain networks — spanning GDP-certified cold storage, 3PL fulfilment, and reefer transportation across major metros and expanding corridors.",
+    "heading": "Strengthening India's supply chain from the ground up — with infrastructure built for reliability, compliance, and scale.",
+    "bio": "As Director of JW Ventures, I lead the development of one of India's most comprehensive integrated logistics networks — spanning 1.5+ million pallet positions and 300+ acres of logistics parks with a strong pan-India presence. Through our group companies — JWL Cold Store (Cold Chain, 3PL, 4PL warehousing), JWC Logistics Park (CFS operations), and JWR Logistics (LCL CFS operations) — we handle 40,000+ containers monthly, serving 100+ Fortune 500 clients through C-TPAT, AEO, FDA, and GDP-compliant facilities, operating 24×7×365. Our infrastructure is designed to manage the full spectrum of supply chain needs — from -25°C deep freeze to +25°C controlled environments, ambient warehousing, and specialized hazmat storage. Every solution is engineered with a singular focus: zero compromise on compliance and zero tolerance for downtime. Our mission: Deliver world-class infrastructure, unmatched reliability, and best-in-class cost efficiency — setting new benchmarks for India's logistics ecosystem.",
     "photo": "/images/kruti.jpeg"
   },
   "skills": [
@@ -338,8 +338,8 @@
   ],
   "about": {
     "paragraphs": [
-      "India's cold chain is a generational opportunity — and at <em>JW Ventures</em>, we're building the infrastructure to capture it. From GDP-certified cold storage to pan-India reefer corridors, our network is designed for businesses that can't afford temperature excursions, compliance failures, or supply chain gaps.",
-      "My focus is on building an organisation that scales with India's growing pharma export ambitions, organised retail expansion, and FMCG reach into Tier-2 cities. Every facility, every system, every hire is oriented toward one goal — being the most trusted cold chain partner in India."
+      "At <em>JW Ventures</em>, we've built infrastructure that handles the full spectrum of supply chain complexity — from -25°C deep freeze pharma vaults to +25°C controlled environments, ambient warehousing, and specialized hazmat storage. Our group companies — JWL Cold Store, JWC Logistics Park, and JWR Logistics — operate as a unified platform, giving clients a single, accountable partner for cold chain, CFS, and LCL operations across India.",
+      "Our mission is to deliver world-class infrastructure, unmatched reliability, and best-in-class cost efficiency — setting new benchmarks for India's logistics ecosystem. 40,000+ containers monthly. 100+ Fortune 500 clients. C-TPAT, AEO, FDA, and GDP-compliant. 24×7×365. Zero compromise."
     ],
     "timeline": [
       { "years": "Now →", "company": "JW Ventures", "role": "Director", "logo": "jwl", "accent": true }
@@ -389,8 +389,8 @@
     "lastName": "Jobanputra",
     "nickname": "Raaj",
     "title": "Director",
-    "role": "Director – JW Ventures",
-    "org": "JW (JW Ventures Pvt Ltd)",
+    "role": "Director – JW Ventures Pvt. Ltd.",
+    "org": "JW Ventures Pvt. Ltd.",
     "photo": "/images/raaj.jpeg",
     "phones": [
       { "type": "CELL", "number": "+91 98214 11232" },
@@ -405,7 +405,7 @@
     "addresses": [
       {
         "type": "WORK",
-        "street": "15-23, National Highway 4B, Panvel-JNPT Highway, Village Padeghar",
+        "street": "15-45, National Highway 4B, Panvel-JNPT Highway, Village Padeghar",
         "city": "Panvel",
         "region": "Maharashtra",
         "postalCode": "410206",
@@ -413,56 +413,56 @@
       }
     ],
     "birthday": "",
-    "categories": ["Logistics", "Cold Chain", "3PL", "Director"],
-    "note": "Director at JW Ventures Pvt. Ltd. | Cold Chain Logistics | 3PL | GDP Compliant Warehousing"
+    "categories": ["Logistics", "Cold Chain", "3PL", "Supply Chain", "Director"],
+    "note": "Director at JW Ventures Pvt. Ltd. | 1.5M+ Pallet Positions | 2.5M+ sq ft Warehousing | 100+ Fortune 500 Clients | C-TPAT, AEO, FDA, GDP Certified"
   },
   "hero": {
     "greetings": [
       "नमस्कार", "Hello", "ನಮಸ್ಕಾರ", "નમસ્તે", "வணக்கம்", "നമസ്കാരം", "নমস্কার", "ਸਤ ਸ੍ਰੀ ਅਕਾਲ", "Hola", "Bonjour"
     ],
     "name": "Raaj L. Jobanputra — Director, JW Ventures",
-    "heading": "Strengthening India's cold chain from the ground up — with infrastructure built for reliability, compliance, and scale.",
-    "bio": "As Director at JW Ventures Pvt. Ltd., I drive the vision and growth of one of India's integrated cold chain networks — spanning GDP-certified cold storage, 3PL fulfilment, and reefer transportation across major metros and emerging corridors across the country.",
+    "heading": "Strengthening India's supply chain from the ground up — with infrastructure built for reliability, compliance, and scale.",
+    "bio": "As Director of JW Ventures, I lead the development of one of India's most comprehensive integrated logistics networks — spanning 1.5+ million pallet positions and 300+ acres of logistics parks with a strong pan-India presence. Through our group companies — JWL Cold Store (Cold Chain, 3PL, 4PL warehousing), JWC Logistics Park (CFS operations), and JWR Logistics (LCL CFS operations) — we handle 40,000+ containers monthly, serving 100+ Fortune 500 clients through C-TPAT, AEO, FDA, and GDP-compliant facilities, operating 24×7×365. Our infrastructure is designed to manage the full spectrum of supply chain needs — from -25°C deep freeze to +25°C controlled environments, ambient warehousing, and specialized hazmat storage. Every solution is engineered with a singular focus: zero compromise on compliance and zero tolerance for downtime. Our mission: Deliver world-class infrastructure, unmatched reliability, and best-in-class cost efficiency — setting new benchmarks for India's logistics ecosystem.",
     "photo": "/images/raaj.jpeg"
   },
   "skills": [
-    "Cold Chain Strategy", "3PL Operations", "Business Leadership",
-    "GDP & QMS Compliance", "Warehousing", "Supply Chain Management",
-    "Reefer Transportation", "Pharma & Food Logistics"
+    "Cold Chain Strategy", "Integrated Logistics", "Business Leadership",
+    "C-TPAT & AEO Compliance", "GDP & FDA Certified Operations",
+    "3PL & Warehousing", "Container Freight", "Fortune 500 Supply Chain"
   ],
   "projects": [
     {
-      "title": "Pan-India Cold Chain Expansion",
-      "description": "JW Ventures operates an integrated cold chain network across Mumbai, Bangalore, Delhi/NCR and Chennai — covering cold storage for Food, Pharma & Allied segments, ambient warehousing, customs bonded facilities, and primary & secondary reefer transport under one roof.",
+      "title": "India's Largest Integrated Cold Chain Network",
+      "description": "Most logistics operators offer a piece of the supply chain. JW Ventures delivers the whole thing. Across JWL Cold Store, JWC Logistics Park, and JWR Logistics — we operate 1.5M+ pallet positions, 2.5M+ sq ft of warehousing, and 300+ acres of logistics parks. 40,000+ containers processed monthly. 100+ Fortune 500 companies served. If your supply chain demands scale, compliance, and zero downtime tolerance — this is where it runs.",
       "image": "/images/coldchainimg1.webp",
       "link": "https://www.jwllogic.com",
       "stats": [
-        { "label": "Pallet positions", "value": "80,000+", "accent": true },
-        { "label": "3PL warehouse footprint", "value": "500,000 sq ft", "accent": true },
-        { "label": "CFS throughput", "value": "300,000 TEUs/yr", "accent": true },
-        { "label": "", "value": "& more", "accent": false }
+        { "label": "Pallet positions", "value": "1.5M+", "accent": true },
+        { "label": "Warehousing footprint", "value": "2.5M+ sq ft", "accent": true },
+        { "label": "Containers/month", "value": "40,000+", "accent": true },
+        { "label": "Fortune 500 clients", "value": "100+", "accent": true }
       ]
     },
     {
-      "title": "GDP & IMS Compliant Cold Facility",
-      "description": "JW's cold facility is GDP and IMS certified with continuous QMS training cycles, keeping operations audit-ready year-round for pharma and food cargo requiring end-to-end traceability and regulatory compliance.",
+      "title": "Multi-Cert Compliance Infrastructure",
+      "description": "Compliance failures cost pharma and food companies audits, recalls, and client relationships. JW Ventures operates the only integrated logistics network in India holding C-TPAT, AEO, FDA, and GDP certifications simultaneously — with facilities spanning -25°C pharma vaults, ambient warehousing, hazmat storage, and container freight, all operating 24×7×365 with zero compromise on standards.",
       "image": "/images/GDP&IMS.webp",
       "link": "https://www.jwllogic.com",
       "stats": [
-        { "label": "Pallet positions on site", "value": "28,000", "accent": true },
-        { "label": "Compliance standards", "value": "GDP + IMS", "accent": true },
-        { "label": "Cargo segments served", "value": "Food / Pharma / Allied", "accent": true },
-        { "label": "", "value": "& more", "accent": false }
+        { "label": "Certifications", "value": "C-TPAT · AEO · FDA · GDP", "accent": true },
+        { "label": "Temp range", "value": "-25°C to Ambient", "accent": true },
+        { "label": "Uptime", "value": "24×7×365", "accent": true },
+        { "label": "Logistics parks", "value": "300+ acres", "accent": true }
       ]
     }
   ],
   "about": {
     "paragraphs": [
-      "India's cold chain is a generational opportunity — and at <em>JW Ventures</em>, we're building the infrastructure to capture it. From GDP-certified cold storage to pan-India reefer corridors, our network is designed for businesses that can't afford temperature excursions, compliance failures, or supply chain gaps.",
-      "My focus is on scaling an organisation that grows alongside India's pharma export ambitions, organised retail expansion, and FMCG reach into Tier-2 cities — making JW Ventures the most trusted cold chain partner in the country."
+      "India's supply chain infrastructure has a trust problem — too many operators, too little accountability, and compliance that only shows up when auditors arrive. At <em>JW Ventures</em>, we've built the opposite: a multi-subsidiary network where C-TPAT, AEO, FDA, and GDP certifications aren't badges — they're the baseline. Every facility, every shift, every container we handle is held to the same standard that 100+ Fortune 500 companies have come to rely on.",
+      "World-class infrastructure. Unbeatable reliability. Best-in-class economics. That is the mission — and the reason JW Ventures commands 1.5M+ pallet positions, 2.5M+ sq ft of warehousing, and 300+ acres of logistics parks across India today. The next phase is expansion: deeper penetration into Tier-2 corridors, ultra-cold pharma capabilities, and the digital infrastructure to make every movement in our network visible, traceable, and accountable in real time."
     ],
     "timeline": [
-      { "years": "Now →", "company": "JW Ventures", "role": "Director", "logo": "jwl", "accent": true }
+      { "years": "Now →", "company": "JW Ventures Pvt. Ltd.", "role": "Director", "logo": "jwl", "accent": true }
     ]
   },
   "testimonials": [],
@@ -487,6 +487,122 @@
       { "label": "Website", "display": "www.jwllogic.com", "url": "https://www.jwllogic.com" }
     ]
   }
-}
+},
+
+    "lalit": {
+      "sections": {
+        "reachMe": true,
+        "featuredWork": false,
+        "aboutMe": false,
+        "testimonials": false,
+        "outsideOfWork": false,
+        "connect": true
+      },
+      "meta": {
+        "title": "Lalit Jobanputra – Director, JW Ventures",
+        "description": "Portfolio of Lalit Jobanputra, Director at JW Ventures Pvt. Ltd., leading integrated logistics, cold chain, and supply chain infrastructure across India.",
+        "tag": "LJ_P_2026",
+        "years": ">>>>2026"
+      },
+      "vcard": {
+        "fullName": "Lalit Jobanputra",
+        "firstName": "Lalit",
+        "lastName": "Jobanputra",
+        "title": "Director",
+        "role": "Director – JW Ventures Pvt. Ltd.",
+        "org": "JW Ventures Pvt. Ltd.",
+        "photo": "/images/lalit.jpeg",
+        "phones": [
+          { "type": "CELL", "number": "" },
+          { "type": "WORK", "number": "+91 22 5050 0000" }
+        ],
+        "emails": [
+          { "type": "WORK", "address": "" }
+        ],
+        "urls": [
+          { "label": "Company", "value": "https://www.jwllogic.com" }
+        ],
+        "addresses": [
+          {
+            "type": "WORK",
+            "street": "15-45, National Highway 4B, Panvel-JNPT Highway, Village Padeghar",
+            "city": "Panvel",
+            "region": "Maharashtra",
+            "postalCode": "410206",
+            "country": "India"
+          }
+        ],
+        "birthday": "",
+        "categories": ["Logistics", "Cold Chain", "3PL", "Supply Chain", "Director"],
+        "note": "Director at JW Ventures Pvt. Ltd. | 1.5M+ Pallet Positions | 2.5M+ sq ft Warehousing | 100+ Fortune 500 Clients | C-TPAT, AEO, FDA, GDP Certified"
+      },
+      "hero": {
+        "greetings": [
+          "नमस्कार", "Hello", "ನಮಸ್ಕಾರ", "નમસ્તે", "வணக்கம்", "നമസ്കാരം", "নমস্কার", "ਸਤ ਸ੍ਰੀ ਅਕਾਲ", "Hola", "Bonjour"
+        ],
+        "name": "Lalit Jobanputra — Director, JW Ventures",
+        "heading": "Strengthening India's supply chain from the ground up — with infrastructure built for reliability, compliance, and scale.",
+        "bio": "As Director of JW Ventures, I lead the development of one of India's most comprehensive integrated logistics networks — spanning 1.5+ million pallet positions and 300+ acres of logistics parks with a strong pan-India presence. Through our group companies — JWL Cold Store (Cold Chain, 3PL, 4PL warehousing), JWC Logistics Park (CFS operations), and JWR Logistics (LCL CFS operations) — we handle 40,000+ containers monthly, serving 100+ Fortune 500 clients through C-TPAT, AEO, FDA, and GDP-compliant facilities, operating 24×7×365. Our infrastructure is designed to manage the full spectrum of supply chain needs — from -25°C deep freeze to +25°C controlled environments, ambient warehousing, and specialized hazmat storage. Every solution is engineered with a singular focus: zero compromise on compliance and zero tolerance for downtime. Our mission: Deliver world-class infrastructure, unmatched reliability, and best-in-class cost efficiency — setting new benchmarks for India's logistics ecosystem.",
+        "photo": "/images/lalit.jpeg"
+      },
+      "skills": [
+        "Cold Chain Strategy", "Integrated Logistics", "Business Leadership",
+        "C-TPAT & AEO Compliance", "GDP & FDA Certified Operations",
+        "3PL & Warehousing", "Container Freight", "Fortune 500 Supply Chain"
+      ],
+      "projects": [
+        {
+          "title": "India's Largest Integrated Cold Chain Network",
+          "description": "Most logistics operators offer a piece of the supply chain. JW Ventures delivers the whole thing. Across JWL Cold Store, JWC Logistics Park, and JWR Logistics — we operate 1.5M+ pallet positions, 2.5M+ sq ft of warehousing, and 300+ acres of logistics parks. 40,000+ containers processed monthly. 100+ Fortune 500 companies served. If your supply chain demands scale, compliance, and zero downtime tolerance — this is where it runs.",
+          "image": "/images/coldchainimg1.webp",
+          "link": "https://www.jwllogic.com",
+          "stats": [
+            { "label": "Pallet positions", "value": "1.5M+", "accent": true },
+            { "label": "Warehousing footprint", "value": "2.5M+ sq ft", "accent": true },
+            { "label": "Containers/month", "value": "40,000+", "accent": true },
+            { "label": "Fortune 500 clients", "value": "100+", "accent": true }
+          ]
+        },
+        {
+          "title": "Multi-Cert Compliance Infrastructure",
+          "description": "Compliance failures cost pharma and food companies audits, recalls, and client relationships. JW Ventures operates the only integrated logistics network in India holding C-TPAT, AEO, FDA, and GDP certifications simultaneously — with facilities spanning -25°C pharma vaults, ambient warehousing, hazmat storage, and container freight, all operating 24×7×365 with zero compromise on standards.",
+          "image": "/images/GDP&IMS.webp",
+          "link": "https://www.jwllogic.com",
+          "stats": [
+            { "label": "Certifications", "value": "C-TPAT · AEO · FDA · GDP", "accent": true },
+            { "label": "Temp range", "value": "-25°C to Ambient", "accent": true },
+            { "label": "Uptime", "value": "24×7×365", "accent": true },
+            { "label": "Logistics parks", "value": "300+ acres", "accent": true }
+          ]
+        }
+      ],
+      "about": {
+        "paragraphs": [
+          "At <em>JW Ventures</em>, we've built infrastructure that handles the full spectrum of supply chain complexity — from -25°C deep freeze pharma vaults to +25°C controlled environments, ambient warehousing, and specialized hazmat storage. Our group companies — JWL Cold Store, JWC Logistics Park, and JWR Logistics — operate as a unified platform, giving clients a single, accountable partner for cold chain, CFS, and LCL operations across India.",
+          "Our mission is to deliver world-class infrastructure, unmatched reliability, and best-in-class cost efficiency — setting new benchmarks for India's logistics ecosystem. 40,000+ containers monthly. 100+ Fortune 500 clients. C-TPAT, AEO, FDA, and GDP-compliant. 24×7×365. Zero compromise."
+        ],
+        "timeline": [
+          { "years": "Now →", "company": "JW Ventures Pvt. Ltd.", "role": "Director", "logo": "jwl", "accent": true }
+        ]
+      },
+      "testimonials": [],
+      "hobbies": { "photography": [], "travel": [] },
+      "connect": {
+        "social": [
+          { "type": "whatsapp", "handle": "", "url": "" }
+        ],
+        "companies": [
+          { "name": "JW Ventures Pvt. Ltd.", "tag": "The Mark of Trust", "url": "https://www.jwllogic.com" },
+          { "name": "JWL Cold Store", "tag": "Cold Chain · 3PL · 4PL", "url": "https://jwllogic.com" },
+          { "name": "JWC Logistics Park", "tag": "CFS Operations", "url": "https://www.jwllogic.com" },
+          { "name": "JWR Logistics", "tag": "LCL CFS Operations", "url": "https://www.jwllogic.com" }
+        ],
+        "links": [
+          { "label": "Email", "display": "", "url": "" },
+          { "label": "Phone", "display": "", "url": "" }
+        ]
+      }
+    }
+
   }
 }
