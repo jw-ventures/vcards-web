@@ -325,19 +325,7 @@ async function wireVCard(slug, vcard, connect) {
     btn.setAttribute('download', filename);
   }
 
-  // Auto-download once per session per profile
-  const key = `vcf_downloaded_${slug}`;
-  if (!sessionStorage.getItem(key)) {
-    setTimeout(() => {
-      const a = document.createElement('a');
-      a.href = blobUrl;
-      a.download = filename;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      sessionStorage.setItem(key, '1');
-    }, 2000);
-  }
+  // Auto-download disabled — visitor saves contact manually via the Save Contact button
 }
 
 // ===== Logo helper =====
