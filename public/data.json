@@ -513,11 +513,11 @@
         "org": "JW Ventures Pvt. Ltd.",
         "photo": "/images/lalit.jpeg",
         "phones": [
-          { "type": "CELL", "number": "" },
+          { "type": "CELL", "number": "+91 98210 11232" },
           { "type": "WORK", "number": "+91 22 5050 0000" }
         ],
         "emails": [
-          { "type": "WORK", "address": "" }
+          { "type": "WORK", "address": "lcjobanpitra@jwllogic.com" }
         ],
         "urls": [
           { "label": "Company", "value": "https://www.jwllogic.com" }
@@ -589,7 +589,7 @@
       "hobbies": { "photography": [], "travel": [] },
       "connect": {
         "social": [
-          { "type": "whatsapp", "handle": "", "url": "" }
+          { "type": "whatsapp", "handle": "+91 98210 11232", "url": "https://wa.me/919821011232" }
         ],
         "companies": [
           { "name": "JW Ventures Pvt. Ltd.", "tag": "The Mark of Trust", "url": "https://www.jwllogic.com" },
@@ -598,8 +598,8 @@
           { "name": "JWR Logistics", "tag": "LCL CFS Operations", "url": "https://www.jwllogic.com" }
         ],
         "links": [
-          { "label": "Email", "display": "", "url": "" },
-          { "label": "Phone", "display": "", "url": "" }
+          { "label": "Email", "display": "lcjobanpitra@jwllogic.com", "url": "mailto:lcjobanpitra@jwllogic.com" },
+          { "label": "Phone", "display": "+91 98210 11232", "url": "tel:+919821011232" }
         ]
       }
     }
