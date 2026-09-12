@@ -1319,11 +1319,55 @@
         "travel": []
       },
       "connect": {
+        "social": [
+          {
+            "type": "linkedin",
+            "handle": "gowri-sankar-g-33034755",
+            "url": "https://www.linkedin.com/in/gowri-sankar-g-33034755/"
+          },
+          {
+            "type": "whatsapp",
+            "handle": "+91 99306 63061",
+            "url": "https://wa.me/919930663061"
+          }
+        ],
+        "companies": [
+          {
+            "name": "JW Ventures Pvt. Ltd.",
+            "tag": "The Mark of Trust",
+            "url": "https://www.jwllogic.com"
+          },
+          {
+            "name": "JWL Cold Store",
+            "tag": "3PL & Cold Chain",
+            "url": "https://jwllogic.com"
+          },
+          {
+            "name": "JWR Logistic",
+            "tag": "Freight & Transportation",
+            "url": "https://www.jwllogic.com"
+          },
+          {
+            "name": "JWC Logistics",
+            "tag": "Ferk Pvt. Ltd.",
+            "url": "https://www.jwllogic.com"
+          }
+        ],
         "links": [
           {
-            "label": "Company Website",
-            "url": "https://www.jwllogic.com",
-            "icon": "globe"
+            "label": "LinkedIn",
+            "display": "gowri-sankar-g-33034755",
+            "url": "https://www.linkedin.com/in/gowri-sankar-g-33034755/"
+          },
+          {
+            "label": "Email",
+            "display": "gowrisankar@jwllogic.com",
+            "url": "mailto:gowrisankar@jwllogic.com"
+          },
+          {
+            "label": "Phone",
+            "display": "+91 99306 63061",
+            "url": "tel:+919930663061"
           }
         ]
       }
